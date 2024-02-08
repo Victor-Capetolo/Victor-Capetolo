@@ -3,7 +3,8 @@
 
 - 🔭 Estudiante en Certified Tech Developer **Digital House**
 
-- 🌱 I’m currently learning **Desarrollo Back End, Front End, UX UI**
+- 🌱 Estudiando actualmente **Desarrollo Back End, Front End, UX UI**
+-    Próximamente cursaré **Testing Automation**
 
 - 📫 Puedes contactarme en **victorcapetolo@gmail.com**
 
